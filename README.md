@@ -23,7 +23,8 @@
 
 
 7.i put the values input field but i have got error
-![error](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/b8b0eaee-6342-423d-99a9-2bbe9b655d18)
+![error2](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/212f6169-4c26-4002-aad1-9bf6b1a44b25)
+
 
 
 8.Then i have done intercept request in burp and send to repeater delete the PHPSESSIONID and added token= parameter before name parameter because in users.html file there is token field to make a user authenticated.

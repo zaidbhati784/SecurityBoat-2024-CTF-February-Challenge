@@ -12,7 +12,7 @@
 4.After the request in intercepted then i have done some request manupulation by deleting the PHPSESSIONID header and also response manipulaton with false value to true because of this code isLogged=true means authencation in geniune.There is POST request with operation=sessionCheckAdmin after do-intercept response i got false in response but now i have changed that with true.
 ![js](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/061848c7-bd41-4600-8e4e-9e46e00f614b)
 
-5.Now wo got this response look for point number 8 you will get the idea
+5.Now wo got this response look for point number 8 you will get the idea then do forward and forward
 ![data200](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/a1f01d56-30cc-4099-ba96-218abd8f4d45)
 ![true](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/dea93cda-ac0d-4be5-a411-b80c3184653d)
 

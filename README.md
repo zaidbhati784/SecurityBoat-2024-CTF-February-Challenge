@@ -19,8 +19,9 @@
 
 
 
-6.got access to edituser.html like this
+6.got access to edituser.html like this also admin access
 ![edituser](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/b71a9eaf-b993-4f41-9dc3-faa39874bd4f)
+![accessadmin](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/2d796230-17a1-487c-b8f4-caad29eff6eb)
 
 
 7.i put the values input field but i have got error

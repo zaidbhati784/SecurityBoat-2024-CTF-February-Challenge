@@ -12,20 +12,24 @@
 4.After the request in intercepted then i have done some request manupulation by deleting the PHPSESSIONID header and also response manipulaton with false value to true because of this code isLogged=true means authencation in geniune.There is POST request with operation=sessionCheckAdmin after do-intercept response i got false in response but now i have changed that with true.
 ![js](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/061848c7-bd41-4600-8e4e-9e46e00f614b)
 
+5.Now wo got this response look for point number 8 you will get the idea
+![data200](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/a1f01d56-30cc-4099-ba96-218abd8f4d45)
 
-5.Now, intercept off and got access to edituser.html like this
+
+
+6.got access to edituser.html like this
 ![edituser](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/b71a9eaf-b993-4f41-9dc3-faa39874bd4f)
 
 
-6.i put the values input field but i have got error
+7.i put the values input field but i have got error
 
 
-7.Then i have done intercept request in burp and send to repeater delete the PHPSESSIONID and added token= parameter before name parameter because in users.html file there is token field to make a user authenticated.
+8.Then i have done intercept request in burp and send to repeater delete the PHPSESSIONID and added token= parameter before name parameter because in users.html file there is token field to make a user authenticated.
 ![user](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/322934be-3199-4c54-b7a9-5d51c6f738d8)
 
 
-8.Click send after this that it we got our flag...
+9.Click send after this that it we got our flag...
 ![poc](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/7082f705-aefd-4c1c-aca0-cd7ba65856a3)
 
 
-9.User updated by other account !! Your Flag {!DOR_!S_FUN}
+10.User updated by other account !! Your Flag {!DOR_!S_FUN}

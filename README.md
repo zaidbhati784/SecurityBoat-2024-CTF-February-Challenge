@@ -39,3 +39,8 @@
 
 10.User updated by other account !! Your Flag {!DOR_!S_FUN}
 ![flagalert](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/c9bafae8-e7dd-441e-bde7-71b96d73868d)
+
+
+Also and XSS
+![xssburp](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/a1ce191e-3212-460d-8edb-62e5dd310aea)
+![xsspoc](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/29fe5412-41a7-429e-8190-d30221a6c253)

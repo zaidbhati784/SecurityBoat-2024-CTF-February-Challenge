@@ -20,8 +20,9 @@
 
 
 6.Admin Access from file staff.html (e-mail=staff@staff.com & password=staff)
-![accessadmin](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/2d796230-17a1-487c-b8f4-caad29eff6eb)
 ![adminpass](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/01efa233-b334-41ea-8342-1e04cc58288a)
+![accessadmin](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/2d796230-17a1-487c-b8f4-caad29eff6eb)
+
 
 
 7.i put the values input field but i have got error

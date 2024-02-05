@@ -19,7 +19,7 @@
 
 
 
-6.got access to edituser.html like this also admin access
+6.Got access to edituser.html like this also Admin Access from file staff.html (e-mail=staff@staff.com & password=staff)
 ![edituser](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/b71a9eaf-b993-4f41-9dc3-faa39874bd4f)
 ![accessadmin](https://github.com/zaidbhati784/SecurityBoat-2024-CTF-February-Challenge/assets/114328894/2d796230-17a1-487c-b8f4-caad29eff6eb)
 
